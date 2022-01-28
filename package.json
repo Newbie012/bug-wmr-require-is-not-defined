@@ -1,0 +1,17 @@
+{
+	"private": true,
+	"scripts": {
+		"start": "wmr",
+		"build": "wmr build",
+		"serve": "wmr serve"
+	},
+	"eslintConfig": {
+		"extends": "preact"
+	},
+	"dependencies": {
+		"angular": "1.8.2"
+	},
+	"devDependencies": {
+		"wmr": "^3.7.2"
+	}
+}
